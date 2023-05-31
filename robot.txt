@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.pdgi-kotabekasi.or.id/assets/global/-/slot-gacor-hari-ini/sitemap.xml
